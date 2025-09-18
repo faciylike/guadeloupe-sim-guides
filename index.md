@@ -67,3 +67,10 @@ layout: default
 
 　　希望这份指南能帮你扫清通讯障碍，在瓜德罗普的每一天，都能随时随地把快乐分享给世界。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Guadeloupe eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/guadeloupe-data-plans)
